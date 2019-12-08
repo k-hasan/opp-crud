@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b8cf8f1a-86b7-4a06-aafd-dee3d8f4bca8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1UHC4nzSsfHs1WTKwGCLFryp2VB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/Item" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8cf8f1a-86b7-4a06-aafd-dee3d8f4bca8" name="Default Changelist" comment="" />
+      <created>1575003944760</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575003944760</updated>
+      <workItem from="1575003946100" duration="15092000" />
+      <workItem from="1575468376751" duration="9289000" />
+      <workItem from="1575504956671" duration="1098000" />
+      <workItem from="1575642936262" duration="11981000" />
+      <workItem from="1575699917278" duration="14762000" />
+      <workItem from="1575820843277" duration="603000" />
+      <workItem from="1575821470687" duration="1185000" />
+      <workItem from="1575822656731" duration="7279000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="582" y="215" width="800" height="736" key="#Intentions" timestamp="1575657729842">
+      <screen x="54" y="27" width="1866" height="1053" />
+    </state>
+    <state x="582" y="215" width="800" height="736" key="#Intentions/54.27.1866.1053@54.27.1866.1053" timestamp="1575657729842" />
+    <state x="682" y="358" width="610" height="397" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1575829095643">
+      <screen x="54" y="27" width="1866" height="1053" />
+    </state>
+    <state x="682" y="358" width="610" height="397" key="#com.intellij.fileTypes.FileTypeChooser/54.27.1866.1053@54.27.1866.1053" timestamp="1575829095643" />
+    <state x="795" y="272" width="374" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1575659132308">
+      <screen x="54" y="27" width="1866" height="1053" />
+    </state>
+    <state x="795" y="272" width="374" height="569" key="#com.intellij.ide.util.MemberChooser/54.27.1866.1053@54.27.1866.1053" timestamp="1575659132308" />
+    <state x="739" y="192" width="476" height="736" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1575823216285">
+      <screen x="54" y="27" width="1866" height="1053" />
+    </state>
+    <state x="739" y="192" width="476" height="736" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/54.27.1866.1053@54.27.1866.1053" timestamp="1575823216285" />
+    <state x="720" y="311" width="524" height="491" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1575705471548">
+      <screen x="54" y="27" width="1866" height="1053" />
+    </state>
+    <state x="720" y="311" width="524" height="491" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/54.27.1866.1053@54.27.1866.1053" timestamp="1575705471548" />
+    <state x="770" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1575822652503">
+      <screen x="54" y="27" width="1866" height="1053" />
+    </state>
+    <state x="770" y="311" width="424" height="491" key="FileChooserDialogImpl/54.27.1866.1053@54.27.1866.1053" timestamp="1575822652503" />
+    <state x="1920" y="311" key="FileChooserDialogImpl/54.27.3786.1053@54.27.3786.1053" timestamp="1575021140539" />
+    <state x="643" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1575821471451">
+      <screen x="54" y="27" width="1866" height="1053" />
+    </state>
+    <state x="643" y="381" key="com.intellij.ide.util.TipDialog/54.27.1866.1053@54.27.1866.1053" timestamp="1575821471451" />
+    <state x="651" y="252" key="run.anything.popup" timestamp="1575009914707">
+      <screen x="54" y="27" width="1866" height="1053" />
+    </state>
+    <state x="651" y="252" key="run.anything.popup/54.27.1866.1053@54.27.1866.1053" timestamp="1575009914707" />
+    <state x="650" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1575010146741">
+      <screen x="54" y="27" width="1866" height="1053" />
+    </state>
+    <state x="650" y="259" width="672" height="678" key="search.everywhere.popup/54.27.1866.1053@54.27.1866.1053" timestamp="1575010146741" />
+  </component>
+</project>
